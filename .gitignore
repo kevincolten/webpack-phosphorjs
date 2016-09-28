@@ -1,0 +1,14 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules
+
+# OS artifacts
+*.DS_Store
+
+# Built Assets
+bundle.js
+font
